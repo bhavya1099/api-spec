@@ -1,0 +1,8 @@
+id,statusCode,scenario
+dlz-f3a90de,200,Successful responses: OK
+dlz-f3a90de,400,Client error responses: Bad Request
+dlz-f3a90de,401,Client error responses: Unauthorized
+dlz-f3a90de,403,Client error responses: Forbidden
+dlz-f3a90de,404,Client error responses: Not Found
+dlz-f3a90de,429,Client error responses: Too Many Requests
+dlz-f3a90de,500,Server error responses: Internal Server Error
